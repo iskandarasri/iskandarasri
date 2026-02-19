@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Iskandar</h1>
-<h3 align="center">Just a guy that like to Ctrl+C and Ctrl+V something.</h3>
 
-- 🌱 I’m currently learning **Software Engineering at University Malaysia of Terengganu**
+- 🌱 Currently learning **Software Engineering at University Malaysia of Terengganu**
 
 - 📫 How to reach me: **iskandarasri03@gmail.com**
 
